@@ -16,4 +16,4 @@
 
 ## IEEE Transactions on Industrial Informatics (example papers)
 
-- [https://github.com/Leaf-hl/Time-series-foundation-related-papers/edit/main/README.md](https://ieeexplore.ieee.org/abstract/document/8370640)
+- [Deep Learning for Smart Industry: Efficient Manufacture Inspection System With Fog Computing](https://ieeexplore.ieee.org/abstract/document/8370640)
