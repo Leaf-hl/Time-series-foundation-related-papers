@@ -18,3 +18,8 @@
 
 - [Deep Learning for Smart Industry: Efficient Manufacture Inspection System With Fog Computing](https://ieeexplore.ieee.org/abstract/document/8370640)
 - [A Multihead Attention Self-Supervised Representation Model for Industrial Sensors Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10159231)
+
+
+##
+
+- [Adaptive attention-driven manifold regularization for deep learning networks: industrial predictive modeling applications and beyond](https://ieeexplore.ieee.org/abstract/document/10415280)
