@@ -14,6 +14,7 @@
 
 1. [An Integrated Measurement-Computation Approach to Magnetic Anomaly Detection Using Nanodevice-Enabled AI](https://ieeexplore.ieee.org/abstract/document/10613879)
 2. [Fast Real-Time Electromagnetic Tomography System for Size Prediction and Material and Position Classification](https://ieeexplore.ieee.org/abstract/document/11036825)
+3. [Remaining Useful Life Prediction Method Based on Multisensor Fusion Under Time-Varying Operating Conditions](https://ieeexplore.ieee.org/abstract/document/10474062)
 
 ### Measurement
 
