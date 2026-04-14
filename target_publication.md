@@ -17,6 +17,9 @@
 
 1. [An Integrated Measurement-Computation Approach to Magnetic Anomaly Detection Using Nanodevice-Enabled AI](https://ieeexplore.ieee.org/abstract/document/10613879)
 2. [Fast Real-Time Electromagnetic Tomography System for Size Prediction and Material and Position Classification](https://ieeexplore.ieee.org/abstract/document/11036825)
+3. [Multiscale Wavelet Graph AutoEncoder for Multivariate Time-Series Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/9954430)
+4. [Fault Diagnosis for Power Converters Based on Incremental Learning](https://ieeexplore.ieee.org/abstract/document/10094034)
+5. [Deep Active Transfer Learning for Cross-Domain Fault Diagnosis With Limited Samples](https://ieeexplore.ieee.org/abstract/document/10942393)
 
 
 ### Measurement
