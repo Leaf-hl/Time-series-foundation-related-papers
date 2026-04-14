@@ -10,6 +10,8 @@
 
 1. [A Data-Driven Soft Sensor Modeling Method Based on Deep Learning and its Application](https://ieeexplore.ieee.org/abstract/document/7723870)
 2. [Adaptive Attention-Driven Manifold Regularization for Deep Learning Networks: Industrial Predictive Modeling Applications and Beyond](https://ieeexplore.ieee.org/abstract/document/10415280)
+3. [Data Augmentation Considering Distribution Discrepancy for Fault Diagnosis of Drilling Process With Limited Samples](https://ieeexplore.ieee.org/abstract/document/9994750)
+4. [Fault Diagnosis of Rotating Machinery Based on 1D–2D Joint Convolution Neural Network](https://ieeexplore.ieee.org/abstract/document/9796011)ddddd
 
 ### IEEE Transactions on Instrumentation and Measurement (TIM)
 
