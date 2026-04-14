@@ -2,6 +2,9 @@
 
 1. [Deep Learning for Smart Industry: Efficient Manufacture Inspection System With Fog Computing](https://ieeexplore.ieee.org/abstract/document/8370640)
 2. [A Multihead Attention Self-Supervised Representation Model for Industrial Sensors Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10159231)
+3. [BTFormer: A BNN-Based Trend-Aware Time-Series Prediction Model for Industrial Intelligence](https://ieeexplore.ieee.org/abstract/document/10679570)
+4. [A Transformer-Based Industrial Time Series Prediction Model With Multivariate Dynamic Embedding](https://ieeexplore.ieee.org/abstract/document/10750033)
+5. [Correlation Regularized Conditional Adversarial Adaptation for Multi-Target-Domain Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/9709145)
 
 ### IEEE Transactions on Industrial Electronics (TIE)
 
