@@ -1,1 +1,11 @@
+@article{wang2022application,
+  title={Application of machine learning to the monitoring and prediction of food safety: A review},
+  author={Wang, Xinxin and Bouzembrak, Yamine and Lansink, AGJM Oude and Van Der Fels-Klerx, HJ},
+  journal={Comprehensive reviews in food science and food safety},
+  volume={21},
+  number={1},
+  pages={416--434},
+  year={2022},
+  publisher={Wiley Online Library}
+}
 
